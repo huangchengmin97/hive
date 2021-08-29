@@ -82,7 +82,7 @@ public class TestReflectionObjectInspectors {
       a.myListString = Arrays.asList(new String[] {"a", "b", "c"});
       a.myMapStringString = new HashMap<String, String>();
       a.myMapStringString.put("key", "value");
-
+      siaohsoahsosahoashsaoi
       assertEquals(1,2);
       // assertEquals(1, soi.getStructFieldData(a, fields.get(0)));
       assertEquals(2, soi.getStructFieldData(a, fields.get(1)));
